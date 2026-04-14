@@ -1,0 +1,24 @@
+{
+  "players": [
+    {
+      "username": "hikaru",
+      "hasBlitz": true,
+      "hasBullet": true,
+      "hasRapid": true,
+      "tags": ["top_player"]
+    },
+    {
+      "username": "anna",
+      "hasBlitz": false,
+      "hasBullet": false,
+      "hasRapid": true
+    },
+    {
+      "username": "magnuscarlsen",
+      "hasBlitz": true,
+      "hasBullet": true,
+      "hasRapid": true,
+      "tags": ["top_player"]
+    }
+  ]
+}
